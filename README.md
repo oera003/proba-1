@@ -1,5 +1,5 @@
 # proba-1
-[weboldalam] (https:.sulla.hu)
+[weboldalam] (https://www.sulla.hu)
 Ez egy próba repository
 hbjhrjdgkdjfg.kjdfn
 fdgbfgxbfxg
